@@ -1,4 +1,9 @@
-#
+# Auto-editor
+
+cut nice  ?
+```
+auto-editor ".\1 mana top p9 4.mp4" --margin 0.3sec --edit audio:threshold=-40dB
+```
 
 # FFMPEG
 
