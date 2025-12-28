@@ -3,7 +3,7 @@
 cut nice  ?
 ```
 # cut with spaces to breathe
-auto-editor ".\1 mana top p9 4.mp4" --margin 0.3sec --edit audio:threshold=-40dB
+auto-editor ".\2025-12-23 18-37-45.mp4" --margin 0.15sec --edit audio:threshold=-30dB
 
 # cut fast pace
 auto-editor ".\format tierlist_ALTERED.mp4" --margin 0.05sec --edit audio:threshold=-50dB
